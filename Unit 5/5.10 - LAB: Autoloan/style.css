@@ -18,3 +18,11 @@ h1{
     text-align: center;
     border: 1px solid #ccc;
 }
+.offer-title h2{
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background: #00b3b3;
+    margin: 0px;
+    padding: 15px;
+}

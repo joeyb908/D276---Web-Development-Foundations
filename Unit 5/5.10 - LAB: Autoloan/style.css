@@ -26,3 +26,7 @@ h1{
     margin: 0px;
     padding: 15px;
 }
+.offer-contents div{
+    padding: 20px;
+    background-color: #fafafa;
+}

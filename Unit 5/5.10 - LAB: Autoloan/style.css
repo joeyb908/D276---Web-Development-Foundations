@@ -16,4 +16,5 @@ h1{
     width: 400px;
     margin: 4px;
     text-align: center;
+    border: 1px solid #ccc;
 }

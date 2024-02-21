@@ -30,3 +30,13 @@ h1{
     padding: 20px;
     background-color: #fafafa;
 }
+table{
+    width:100%;
+    background-color: #fff;
+    border-spacing: 0px;
+}
+th{
+    font-size: 12px;
+    font-weight: bold;
+    color: #777;
+}

@@ -11,3 +11,9 @@ h1{
     margin: 5px;
     font-size: 13px;
 }
+.offer section{
+    display: inline-block;
+    width: 400px;
+    margin: 4px;
+    text-align: center;
+}

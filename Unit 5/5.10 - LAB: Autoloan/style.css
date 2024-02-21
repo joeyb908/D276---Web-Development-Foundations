@@ -40,3 +40,7 @@ th{
     font-weight: bold;
     color: #777;
 }
+td{
+    font-weight:lighter;
+    color: #444;
+}

@@ -51,3 +51,6 @@ th, td{
     text-align: left;
     border-bottom: 1px solid #f1f1f1;
 }
+.final-value{
+    border-bottom: 1px solid #f1f1f1;
+}
